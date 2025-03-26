@@ -1,5 +1,8 @@
 # 🎟️ Real-Time Ticketing System  
 
+<p align="center"><img src="https://socialify.git.ci/dileepapeiris/BookToGo.lk-a-Real-Time-Event-Ticketing-Full-Stack-Application/image?custom_description=This+project+combines+Angular+for+the+frontend%2C+Spring+Boot+for+the+backend%2C+and+MySQL+for+data+persistence.&amp;description=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
+
 🚀 **A robust ticketing system that integrates real-time updates with a user-friendly interface!**  
 This project combines **Angular** for the frontend, **Spring Boot** for the backend, and **MySQL** for data persistence, showcasing seamless communication between components.  
 
