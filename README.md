@@ -32,6 +32,35 @@ This project combines **Angular** for the frontend, **Spring Boot** for the back
 🎯 **OOP Principles** – Designed structured, maintainable, and scalable code.  
 📊 **Analytics & Insights** – Integrated data visualization for tracking sales performance.  
 
+
+<h2>Project Screenshots:</h2>
+
+<img src=" https://i.postimg.cc/1z6xStC0/1734064591467.jpg" alt="project-screenshot" width="1366" height="450/">
+
+<img src="https://i.postimg.cc/gk0fJ4t2/1734064591568.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/gk0fJ4t2/1734064591568.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/gk0fJ4t2/1734064591568.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/2ySX18wK/Screenshot-2025-03-14-213643.png" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/c4j5JW8F/1734064591178.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/XYC1GPf4/Screenshot-2025-03-14-213506.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/B6qmzQdn/1734064590071.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/ZYswfmjJ/1734064591178-1.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/fbvKYQJn/1734064585138.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/Jn4QqYky/1734064586728.jpg" alt="project-screenshot" width="1366" height="400/">
+
+<img src="https://i.postimg.cc/1X8rxgMs/1734064590301.jpg" alt="project-screenshot" width="1366" height="400/">
+
+
+
 ## 🔧 Installation Steps  
 
 1️⃣ **Clone the GitHub repo**  
