@@ -3,7 +3,7 @@
 🚀 **A robust ticketing system that integrates real-time updates with a user-friendly interface!**  
 This project combines **Angular** for the frontend, **Spring Boot** for the backend, and **MySQL** for data persistence, showcasing seamless communication between components.  
 
-🔗 **Intro Video**: [Watch Here](https://drive.google.com/file/d/1--0kEzuRNqcx_clNhfYh1plAMM1oXgVH/view?usp=sharing)  
+🔗 **Intro Video**: [Watch Here](https://youtu.be/QGpfjjG4KLc)  
 
 ## 🧐 Key Features  
 
