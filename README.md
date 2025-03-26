@@ -35,9 +35,8 @@ This project combines **Angular** for the frontend, **Spring Boot** for the back
 
 <h2>Project Screenshots:</h2>
 
-<img src=" https://i.postimg.cc/1z6xStC0/1734064591467.jpg" alt="project-screenshot" width="1366" height="450/">
 
-<img src="https://i.postimg.cc/gk0fJ4t2/1734064591568.jpg" alt="project-screenshot" width="1366" height="400/">
+<img src="https://i.postimg.cc/1z6xStC0/1734064591467.jpg" alt="project-screenshot" width="1366" height="400/">
 
 <img src="https://i.postimg.cc/gk0fJ4t2/1734064591568.jpg" alt="project-screenshot" width="1366" height="400/">
 
